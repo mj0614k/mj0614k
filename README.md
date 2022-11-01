@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://mj0614k.github.io/codingclass/index.html"><img alt="Main" src="https://img.shields.io/badge/Main-E34F26?logo=Gradle&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=ASKfm&logoColor=white"></a>
+  <a href="#"><img alt="SITE1" src="https://img.shields.io/badge/SITE1-1572B6?logo=Aseprite&logoColor=white"></a>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
