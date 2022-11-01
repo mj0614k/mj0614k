@@ -10,3 +10,5 @@
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JAVASCRIPT-3178C6?logo=Ghostery&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>
 </p>
+
+  [![mj0614k's github stats](https://github-readme-stats.vercel.app/api?username=mj0614k)](https://github.com/anuraghazra/github-readme-stats)
