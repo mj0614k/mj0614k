@@ -14,5 +14,7 @@
   [![mj0614k's github stats](https://github-readme-stats.vercel.app/api?username=mj0614k)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj0614k&count_bg=%23FFDEB6&title_bg=%23FF9393&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
