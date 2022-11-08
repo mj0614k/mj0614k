@@ -11,6 +11,8 @@
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>
 </p>
 
+REACT <a href="https://react26.netlify.app/">GO</a>
+VUE <a href="https://vueclass-6350c.web.app/">GO</a>
 VUE API SITE <a href="https://vueapi26.web.app/">GO</a>
 
   [![mj0614k's github stats](https://github-readme-stats.vercel.app/api?username=mj0614k)](https://github.com/anuraghazra/github-readme-stats)
