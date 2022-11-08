@@ -8,7 +8,7 @@
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-000?logo=Ello&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-339933?logo=Franprix&logoColor=white"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JAVASCRIPT-3178C6?logo=Ghostery&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>z
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>
 </p>
 
 REACT SITE <a href="https://react26.netlify.app/">GO</a>
