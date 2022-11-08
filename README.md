@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20%20😊&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto &height=300&section=header&text=Hello!%20%20😊&fontSize=90)
 
 <p>
   <a href="https://mj0614k.github.io/codingclass/index.html"><img alt="MAIN" src="https://img.shields.io/badge/MAIN-E34F26?logo=Gradle&logoColor=white"></a>
