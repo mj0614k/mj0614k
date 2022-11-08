@@ -12,7 +12,7 @@
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>
 </p>
 
-REACT SITE<a href="https://react26.netlify.app/">GO</a>
+REACT SITE <a href="https://react26.netlify.app/">GO</a>
 REACT API SITE <a href="https://reactapi26.netlify.app/"></a>
 VUE SITE <a href="https://vueclass-6350c.web.app/">GO</a>
 VUE API SITE <a href="https://vueapi26.web.app/">GO</a>
