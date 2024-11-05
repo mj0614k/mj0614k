@@ -10,16 +10,3 @@
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JAVASCRIPT-3178C6?logo=Ghostery&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=Bitrise&logoColor=white"></a>
 </p>
-
-REACT SITE <a href="https://react26.netlify.app/">😍</a><br>
-REACT API SITE <a href="https://reactapi26.netlify.app/">😍</a><br>
-VUE SITE <a href="https://vueclass-6350c.web.app/">😍</a><br>
-VUE API SITE <a href="https://vueapi26.web.app/">😍</a><br>
-
-  [![mj0614k's github stats](https://github-readme-stats.vercel.app/api?username=mj0614k)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj0614k&count_bg=%23FFDEB6&title_bg=%23FF9393&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
